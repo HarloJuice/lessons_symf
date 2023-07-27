@@ -1,3 +1,6 @@
+app_test_app:
+    path: /test
+    controller: App\Controller\TestController::test
 controllers:
     resource:
         path: ../src/Controller/
